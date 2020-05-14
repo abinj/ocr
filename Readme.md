@@ -1,0 +1,1 @@
+Important: The EAST text requires that your input image dimensions be multiples of 32, so if you choose to adjust your --width  and --height  values, make sure they are multiples of 32!
